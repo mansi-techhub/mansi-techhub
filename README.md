@@ -1,16 +1,16 @@
-# 🫡 About Me:
+# 💫 About Me:
 
 ### 📊 Aspiring Data Analyst & Data Scientist | 🤖 Machine Learning | 🌐 Full-Stack Development
 
-I'm a Computer Science Engineering student passionate about transforming data into meaningful insights and building practical, data-driven solutions.
+I'm a Computer Science Engineering student with minor in AIML who is passionate about transforming data into meaningful insights and building practical, data-driven solutions.
 
-My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, and business analytics**.
+My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, Natural Language Processing (NLP), and business analytics**.
 
 I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
 
-🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and Full-Stack Development.
+🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and NLP while continuously exploring and implementing **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, Prompt Engineering, Vector Databases, and emerging AI tools and technologies**.
 
-💡 I enjoy solving real-world problems through data analysis, machine learning, automation, and software development.
+💡 I enjoy solving real-world problems through data analysis, machine learning, NLP, AI, automation, and software development.
 
 ---
 
@@ -32,7 +32,7 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 - Feature Engineering
 - Model Evaluation
 - Predictive Analytics
-- Fraud Detection
+- Natural Language Processing (NLP)
 - AI/ML Applications
 
 🌐 **Full-Stack Development**
@@ -43,7 +43,6 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 - Data-driven Web Applications
 
 ---
-
 
 ## 🌐 Connect With Me
 
@@ -77,6 +76,21 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧠 Natural Language Processing
+
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### ✨ Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00897B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge)
 
 ---
 
@@ -172,5 +186,4 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 </p>
 
 ---
-
 
