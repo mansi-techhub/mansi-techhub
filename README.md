@@ -2,11 +2,11 @@
 
 ### 📊 Aspiring Data Analyst & Data Scientist | 🤖 Machine Learning | 🌐 Full-Stack Development
 
-I'm a Computer Science Engineering student with minor in AIML who is passionate about transforming data into meaningful insights and building practical, data-driven solutions.
+🎓I'm a Computer Science Engineering student with minor in AIML who is passionate about transforming data into meaningful insights and building practical, data-driven solutions.
 
-My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, Natural Language Processing (NLP), and business analytics**.
+📊My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, Natural Language Processing (NLP), and business analytics**.
 
-I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
+🌐I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
 
 🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and NLP while continuously exploring and implementing **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, Prompt Engineering, Vector Databases, and emerging AI tools and technologies**.
 
@@ -46,8 +46,8 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mansi-sarote-56b22a428)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+mansi-sarote-56b22a428)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansisarote05@gmail.com)
 
 ---
@@ -182,7 +182,7 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 # ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data&author=W.%20Edwards%20Deming"/>
 </p>
 
 ---
