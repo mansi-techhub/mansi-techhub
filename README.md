@@ -13,10 +13,14 @@
 💡 I enjoy solving real-world problems through data analysis, machine learning, NLP, AI, automation, and software development.
 
 ---
-
 ## 🎯 What I'm Focused On
 
-📊 **Data Analytics**
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 📊 Data Analytics
+
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis
 - SQL & Database Analytics
@@ -26,7 +30,12 @@
 - KPI & Performance Analysis
 - Dashboard Development
 
-🤖 **Data Science & Machine Learning**
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 Data Science & Machine Learning
+
 - Supervised & Unsupervised Learning
 - Classification & Regression
 - Feature Engineering
@@ -34,13 +43,29 @@
 - Predictive Analytics
 - Natural Language Processing (NLP)
 - AI/ML Applications
+- Generative AI & LLMs
 
-🌐 **Full-Stack Development**
+</td>
+
+<td valign="top" width="33%">
+
+### 🌐 Full-Stack Development
+
 - Frontend Development
 - Backend Development
 - REST APIs
 - Database Integration
-- Data-driven Web Applications
+- React & JavaScript
+- Node.js & Flask
+- Responsive Web Applications
+- Data-driven Applications
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
