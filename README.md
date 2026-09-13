@@ -182,7 +182,7 @@
 # ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data&author=W.%20Edwards%20Deming"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20computing%20is%20insight%2C%20not%20numbers&author=Richard%20Hamming"/>
 </p>
 
 ---
