@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mansi Sarote
+# 🫡 About Me:
 
 ### 📊 Aspiring Data Analyst & Data Scientist | 🤖 Machine Learning | 🌐 Full-Stack Development
 
@@ -164,14 +164,6 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansi-techhub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-techhub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 # ✍️ Random Dev Quote
 
@@ -181,10 +173,4 @@ I also enjoy **Full-Stack Web Development**, especially building applications th
 
 ---
 
-# 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mansi-techhub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
