@@ -4,9 +4,9 @@
 
 🎓I'm a Computer Science Engineering student with minor in AIML who is passionate about transforming data into meaningful insights and building practical, data-driven solutions.
 
-📊My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, Natural Language Processing (NLP), and business analytics**.
+🚀My primary focus is **Data Analytics and Data Science**, with hands-on interest in **Python, SQL, data visualization, statistics, machine learning, Natural Language Processing (NLP), and business analytics**.
 
-🌐I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
+💻I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
 
 🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and NLP while continuously exploring and implementing **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, Prompt Engineering, Vector Databases, and emerging AI tools and technologies**.
 
@@ -46,8 +46,8 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-mansi-sarote-56b22a428)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sarote-56b22a428/)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansisarote05@gmail.com)
 
 ---
