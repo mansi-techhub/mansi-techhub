@@ -8,7 +8,7 @@
 
 💻I also enjoy **Full-Stack Web Development**, especially building applications that combine data, backend systems, APIs, and intuitive user interfaces.
 
-🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and NLP while continuously exploring and implementing **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, Prompt Engineering, Vector Databases, and emerging AI tools and technologies**.
+🎯 Currently strengthening my skills in Data Analytics, Machine Learning, SQL, Power BI, Data Visualization, and NLP while continuously exploring and implementing **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, Prompt Engineering,Automation, Vector Databases, and emerging AI tools and technologies**.
 
 💡 I enjoy solving real-world problems through data analysis, machine learning, NLP, AI, automation, and software development.
 
